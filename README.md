@@ -38,5 +38,6 @@ project/
   requirements.txt
   olx_etl_pipeline.py
   olx_dag.py
+  olx_data.db
 
 
